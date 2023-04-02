@@ -1,0 +1,33 @@
+.Inventory-detailed-description-list-item {
+  list-style-type: none;
+  width: 20%;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.furniture {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 17px;
+}
+.quantity-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.furniture-name {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 17px;
+}
+.quantity {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 17px;
+  font-weight: bold;
+}
+.option {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 13px;
+  font-weight: bold;
+}

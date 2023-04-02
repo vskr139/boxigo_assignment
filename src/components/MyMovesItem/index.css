@@ -1,0 +1,172 @@
+.my-moves-list-item {
+  list-style-type: none;
+}
+.from-to-address-container {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-container {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-left: 30px;
+}
+.arrow {
+  color: orangered;
+  font-size: 20px;
+}
+.from-to-address-heading {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.from-to-address-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.estimate-id {
+  color: orangered;
+  font-weight: bold;
+}
+.from-address-container {
+  width: 32%;
+}
+.next-arrow-container {
+  width: 15%;
+  align-self: center;
+}
+.to-address-container {
+  width: 32%;
+}
+.estimate-id-container {
+  width: 20%;
+  padding-left: 50px;
+}
+.moving-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.moving-details-item-container {
+  display: flex;
+  align-items: center;
+}
+.moving-details-items-logo {
+  color: orangered;
+  font-size: 28px;
+}
+.moving-details-item-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.pen {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.checkbox {
+  color: orangered;
+  font-size: 17px;
+}
+.view-move-details-btn {
+  font-family: 'Roboto';
+  color: orangered;
+  font-size: 13px;
+  padding: 7px;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid orangeRed;
+  border-radius: 5px;
+  background-color: transparent;
+}
+.quotes-btn {
+  background-color: orangered;
+  font-family: 'Roboto';
+  color: #fef2f4;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border-width: 0px;
+  border: 2px solid orangeRed;
+}
+.disclaimer-container {
+  display: flex;
+  align-items: center;
+}
+.disclaimer-logo {
+  color: orangered;
+  font-size: 15px;
+}
+.disclaimer {
+  font-weight: bold;
+  color: #000000;
+}
+.hr-line {
+  background-color: #cbd2d9;
+  height: 1px;
+  border-width: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.additional-information-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.edit-additional-info-button {
+  background-color: #000000;
+  font-family: 'Roboto';
+  color: #fef2f4;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border-width: 0px;
+}
+.additional-info-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 17px;
+}
+.existing-house-details-container {
+  display: flex;
+  align-items: center;
+}
+.existing-house-details-item-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 13px;
+}
+.orange {
+  color: orangered;
+}
+.existing-house-details-item {
+  margin-right: 150px;
+}
+.existing-house-details-item-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 15px;
+}
+.inventory-item-details-list-container {
+  padding-left: 0px;
+  margin-top: 30px;
+}
